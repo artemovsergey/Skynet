@@ -1,0 +1,15 @@
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\bin\Debug\net7.0\Skynet.Infrastructure.deps.json
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\bin\Debug\net7.0\Skynet.Infrastructure.dll
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\bin\Debug\net7.0\Skynet.Infrastructure.pdb
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\bin\Debug\net7.0\Skynet.Core.dll
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\bin\Debug\net7.0\Skynet.Core.pdb
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\obj\Debug\net7.0\Skynet.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\obj\Debug\net7.0\Skynet.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\obj\Debug\net7.0\Skynet.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\obj\Debug\net7.0\Skynet.Infrastructure.AssemblyInfo.cs
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\obj\Debug\net7.0\Skynet.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\obj\Debug\net7.0\Skynet.Infrastructure.csproj.CopyComplete
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\obj\Debug\net7.0\Skynet.Infrastructure.dll
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\obj\Debug\net7.0\refint\Skynet.Infrastructure.dll
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\obj\Debug\net7.0\Skynet.Infrastructure.pdb
+C:\Users\prep\Desktop\Skynet\Skynet.Infrastructure\obj\Debug\net7.0\ref\Skynet.Infrastructure.dll

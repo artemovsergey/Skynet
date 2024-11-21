@@ -1,0 +1,12 @@
+C:\Users\prep\Desktop\Skynet\Skynet.Core\bin\Debug\net7.0\Skynet.Core.deps.json
+C:\Users\prep\Desktop\Skynet\Skynet.Core\bin\Debug\net7.0\Skynet.Core.dll
+C:\Users\prep\Desktop\Skynet\Skynet.Core\bin\Debug\net7.0\Skynet.Core.pdb
+C:\Users\prep\Desktop\Skynet\Skynet.Core\obj\Debug\net7.0\Skynet.Core.csproj.AssemblyReference.cache
+C:\Users\prep\Desktop\Skynet\Skynet.Core\obj\Debug\net7.0\Skynet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prep\Desktop\Skynet\Skynet.Core\obj\Debug\net7.0\Skynet.Core.AssemblyInfoInputs.cache
+C:\Users\prep\Desktop\Skynet\Skynet.Core\obj\Debug\net7.0\Skynet.Core.AssemblyInfo.cs
+C:\Users\prep\Desktop\Skynet\Skynet.Core\obj\Debug\net7.0\Skynet.Core.csproj.CoreCompileInputs.cache
+C:\Users\prep\Desktop\Skynet\Skynet.Core\obj\Debug\net7.0\Skynet.Core.dll
+C:\Users\prep\Desktop\Skynet\Skynet.Core\obj\Debug\net7.0\refint\Skynet.Core.dll
+C:\Users\prep\Desktop\Skynet\Skynet.Core\obj\Debug\net7.0\Skynet.Core.pdb
+C:\Users\prep\Desktop\Skynet\Skynet.Core\obj\Debug\net7.0\ref\Skynet.Core.dll

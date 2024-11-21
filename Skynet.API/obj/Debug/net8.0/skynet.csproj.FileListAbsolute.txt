@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\skynet\obj\Debug\net8.0\skynet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\skynet\obj\Debug\net8.0\skynet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\skynet\obj\Debug\net8.0\skynet.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\skynet\obj\Debug\net8.0\skynet.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\skynet\obj\Debug\net8.0\skynet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\skynet\obj\Debug\net8.0\skynet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\skynet\obj\Debug\net8.0\skynet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\skynet\obj\Debug\net8.0\skynet.sourcelink.json
