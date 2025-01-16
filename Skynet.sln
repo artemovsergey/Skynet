@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skynet.API", "Skynet.API\Skynet.API.csproj", "{029D5223-767C-43E5-B640-ED7D4F88EFCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skynet.Infrastructure", "Skynet.Infrastructure\Skynet.Infrastructure.csproj", "{65B329BF-E833-4D66-B218-50096D139B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skynet.Core", "Skynet.Core\Skynet.Core.csproj", "{17B97E52-3012-44CA-8E88-8F53968492E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029D5223-767C-43E5-B640-ED7D4F88EFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029D5223-767C-43E5-B640-ED7D4F88EFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029D5223-767C-43E5-B640-ED7D4F88EFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029D5223-767C-43E5-B640-ED7D4F88EFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B329BF-E833-4D66-B218-50096D139B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B329BF-E833-4D66-B218-50096D139B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B329BF-E833-4D66-B218-50096D139B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B329BF-E833-4D66-B218-50096D139B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B97E52-3012-44CA-8E88-8F53968492E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B97E52-3012-44CA-8E88-8F53968492E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B97E52-3012-44CA-8E88-8F53968492E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B97E52-3012-44CA-8E88-8F53968492E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
